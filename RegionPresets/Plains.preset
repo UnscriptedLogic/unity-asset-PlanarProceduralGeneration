@@ -1,0 +1,419 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!181963792 &2655988077585873504
+Preset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Plains
+  m_TargetType:
+    m_NativeTypeID: 114
+    m_ManagedTypePPtr: {fileID: 11500000, guid: 4391495940b65c7419e89a536af8cc32, type: 3}
+    m_ManagedTypeFallback: 
+  m_Properties:
+  - target: {fileID: 0}
+    propertyPath: m_Enabled
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorHideFlags
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorClassIdentifier
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: mapWidth
+    value: 100
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: mapHeight
+    value: 100
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: scale
+    value: 68.99
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: octaves
+    value: 5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: persistance
+    value: 0.3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: lacunarity
+    value: 2.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: seed
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: offset.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: offset.y
+    value: 18
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: meshHeightMultiplier
+    value: 170
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: meshHeightCurve.m_Curve.Array.size
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: meshHeightCurve.m_Curve.Array.data[0].time
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: meshHeightCurve.m_Curve.Array.data[0].value
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: meshHeightCurve.m_Curve.Array.data[0].inSlope
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: meshHeightCurve.m_Curve.Array.data[0].outSlope
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: meshHeightCurve.m_Curve.Array.data[0].tangentMode
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: meshHeightCurve.m_Curve.Array.data[0].weightedMode
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: meshHeightCurve.m_Curve.Array.data[0].inWeight
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: meshHeightCurve.m_Curve.Array.data[0].outWeight
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: meshHeightCurve.m_Curve.Array.data[1].time
+    value: 0.40185264
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: meshHeightCurve.m_Curve.Array.data[1].value
+    value: 0.0011081547
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: meshHeightCurve.m_Curve.Array.data[1].inSlope
+    value: 0.0027576145
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: meshHeightCurve.m_Curve.Array.data[1].outSlope
+    value: 0.4111545
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: meshHeightCurve.m_Curve.Array.data[1].tangentMode
+    value: 5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: meshHeightCurve.m_Curve.Array.data[1].weightedMode
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: meshHeightCurve.m_Curve.Array.data[1].inWeight
+    value: 0.33333334
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: meshHeightCurve.m_Curve.Array.data[1].outWeight
+    value: 0.33333334
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: meshHeightCurve.m_Curve.Array.data[2].time
+    value: 0.8006403
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: meshHeightCurve.m_Curve.Array.data[2].value
+    value: 0.31296334
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: meshHeightCurve.m_Curve.Array.data[2].inSlope
+    value: 1.6699761
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: meshHeightCurve.m_Curve.Array.data[2].outSlope
+    value: 1.6699761
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: meshHeightCurve.m_Curve.Array.data[2].tangentMode
+    value: 136
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: meshHeightCurve.m_Curve.Array.data[2].weightedMode
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: meshHeightCurve.m_Curve.Array.data[2].inWeight
+    value: 0.33333334
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: meshHeightCurve.m_Curve.Array.data[2].outWeight
+    value: 0.33333334
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: meshHeightCurve.m_Curve.Array.data[3].time
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: meshHeightCurve.m_Curve.Array.data[3].value
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: meshHeightCurve.m_Curve.Array.data[3].inSlope
+    value: 6.3166
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: meshHeightCurve.m_Curve.Array.data[3].outSlope
+    value: 6.3166
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: meshHeightCurve.m_Curve.Array.data[3].tangentMode
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: meshHeightCurve.m_Curve.Array.data[3].weightedMode
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: meshHeightCurve.m_Curve.Array.data[3].inWeight
+    value: 0.083226405
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: meshHeightCurve.m_Curve.Array.data[3].outWeight
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: meshHeightCurve.m_PreInfinity
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: meshHeightCurve.m_PostInfinity
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: meshHeightCurve.m_RotationOrder
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: mapDisplay
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: autoUpdate
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: drawMode
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: regions.Array.size
+    value: 8
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: regions.Array.data[0].name
+    value: Deep Water
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: regions.Array.data[0].height
+    value: 0.3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: regions.Array.data[0].colour.r
+    value: 0.19001423
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: regions.Array.data[0].colour.g
+    value: 0.47321713
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: regions.Array.data[0].colour.b
+    value: 0.6603774
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: regions.Array.data[0].colour.a
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: regions.Array.data[1].name
+    value: Water
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: regions.Array.data[1].height
+    value: 0.35
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: regions.Array.data[1].colour.r
+    value: 0.26237094
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: regions.Array.data[1].colour.g
+    value: 0.60779357
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: regions.Array.data[1].colour.b
+    value: 0.8301887
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: regions.Array.data[1].colour.a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: regions.Array.data[2].name
+    value: Sand
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: regions.Array.data[2].height
+    value: 0.45
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: regions.Array.data[2].colour.r
+    value: 0.9370559
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: regions.Array.data[2].colour.g
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: regions.Array.data[2].colour.b
+    value: 0.5424528
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: regions.Array.data[2].colour.a
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: regions.Array.data[3].name
+    value: Grass
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: regions.Array.data[3].height
+    value: 0.55
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: regions.Array.data[3].colour.r
+    value: 0.33784264
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: regions.Array.data[3].colour.g
+    value: 0.9811321
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: regions.Array.data[3].colour.b
+    value: 0.3489339
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: regions.Array.data[3].colour.a
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: regions.Array.data[4].name
+    value: Meadow
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: regions.Array.data[4].height
+    value: 0.75
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: regions.Array.data[4].colour.r
+    value: 0.24697402
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: regions.Array.data[4].colour.g
+    value: 0.6981132
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: regions.Array.data[4].colour.b
+    value: 0.25522655
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: regions.Array.data[4].colour.a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: regions.Array.data[5].name
+    value: Rock
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: regions.Array.data[5].height
+    value: 0.88
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: regions.Array.data[5].colour.r
+    value: 0.4056604
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: regions.Array.data[5].colour.g
+    value: 0.4056604
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: regions.Array.data[5].colour.b
+    value: 0.4056604
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: regions.Array.data[5].colour.a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: regions.Array.data[6].name
+    value: Hill
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: regions.Array.data[6].height
+    value: 0.97
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: regions.Array.data[6].colour.r
+    value: 0.2951252
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: regions.Array.data[6].colour.g
+    value: 0.28337488
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: regions.Array.data[6].colour.b
+    value: 0.3018868
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: regions.Array.data[6].colour.a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: regions.Array.data[7].name
+    value: Snow
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: regions.Array.data[7].height
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: regions.Array.data[7].colour.r
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: regions.Array.data[7].colour.g
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: regions.Array.data[7].colour.b
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: regions.Array.data[7].colour.a
+    value: 1
+    objectReference: {fileID: 0}
+  m_ExcludedProperties: []
